@@ -812,6 +812,7 @@ section {
   color: var(--clr-white-70);
   margin-bottom: 28px;
   font-style: italic;
+  text-transform: uppercase;
 }
 
 .letter__body p strong {
